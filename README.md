@@ -1,5 +1,14 @@
-# 👋 Hi, I’m @Red-stevo
-- 👀 I’m interested in backend Development
-- 🌱 I’m currently learning the spring framework
-- 📫 How to reach me
+# 👋 ```
+        let alien {
+        name : "Red Stevo",
+        tech : {
+        tech1 : "Java",
+        tech2 : "Spring",
+        tech3 : "React",
+        }
+        
+        }```
+- 👀 
+- 🌱
+- 📫 
 
