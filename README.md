@@ -1,12 +1,6 @@
-# 👋 ```
-- 📫   let alien {
-- 👀    name : "Red Stevo",
-- 🌱   tech : {
-        tech1 : "Java",
-        tech2 : "Spring",
-        tech3 : "React",
-        }
-        
-        }```
+```java
+Hey There I'm Red Stevo
+I'm currently Working on Spring Web Development.
+```
 
 
