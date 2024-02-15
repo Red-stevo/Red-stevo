@@ -1,3 +1,7 @@
+<style>
+  bg-image:url(https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP._8x4OYmqCs77aHxcRsEAaQHaFR%26pid%3DApi&f=1&ipt=d208061cb51d23bbedf7d0933233337e3e56dacb4416e7d53102ecb259970f48&ipo=images)
+</style>
+
 <h1 align="center">Hi 👋, I'm Red-stevo</h1>
 <h3 align="center">A passionate Developer</h3>
 
