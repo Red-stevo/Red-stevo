@@ -1,12 +1,15 @@
-
-<style>
-body {
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <style>
+    body {
       background-image: url('path/to/your/image.jpg');
       background-size: cover;
       background-position: center;
-}
- 
-</style>
+    }
+  </style>
+
+<body>
 
 <h1 align="center">Hi 👋, I'm Red-stevo</h1>
 <h3 align="center">A passionate Developer</h3>
@@ -28,5 +31,5 @@ body {
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=red-stevo&" alt="red-stevo" /></p>
 
-
+</body>
 
