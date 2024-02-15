@@ -3,7 +3,7 @@
 <head>
   <style>
     body {
-      background-image: url('path/to/your/image.jpg');
+      background-image: url('https://wallpapercave.com/wp/wp2624196.jpg');
       background-size: cover;
       background-position: center;
     }
