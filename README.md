@@ -1,4 +1,4 @@
-<body style:"background-image: url('https://wallpapercave.com/wp/wp2624196.jpg')">
+<body style="background-image: url('https://wallpapercave.com/wp/wp2624196.jpg'); background-size: cover; background-position: center;">
 
 <h1 align="center">Hi 👋, I'm Red-stevo</h1>
 <h3 align="center">A passionate Developer</h3>
