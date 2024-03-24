@@ -6,9 +6,9 @@
   
   <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=red-stevo" alt="red-stevo" /></a> </p>
   
-  - 🌱 I’m currently learning **Spring framework & SpringBoot**
+  - 🌱 I’m currently learning **SpringBoot and ReactJs**
   
-  - 📫 How to reach me **stephen.muiru22@studetns.dkut.ac.ke**
+  - 📫 How to reach me **stephen.muiru22@students.dkut.ac.ke**
   
   <h3 align="left">Connect with me:</h3>
   <p align="left">
