@@ -4,7 +4,8 @@
   
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=red-stevo&label=Profile%20views&color=0e75b6&style=flat" alt="red-stevo" /> </p>
   
-  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=red-stevo" alt="red-stevo" /></a> </p>
+  <p align="left"> <a href="[https://github.com/ryo-ma/github-profile-trophy](https://github-profile-trophy.vercel.app/)">
+    <img src="https://github-profile-trophy.vercel.app/?username=red-stevo" alt="red-stevo" /></a> </p>
   
   - 🌱 I’m currently learning **SpringBoot and ReactJs**
   
