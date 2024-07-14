@@ -1,4 +1,8 @@
-[![MasterHead](https://media.istockphoto.com/id/1530256492/vector/software-development-concept-laptop-with-open-screen-hanging-over-desk-coding-or-programming.jpg?s=612x612&w=0&k=20&c=LLywtLnfu5FETIvkaFjy_xcHnaIGmaKZYxcPKAoyPcA=)](https://github.com/red-stevo)
+<div align="center">
+  <a href="https://github.com/red-stevo">
+    <img src="https://media.istockphoto.com/id/1530256492/vector/software-development-concept-laptop-with-open-screen-hanging-over-desk-coding-or-programming.jpg?s=612x612&w=0&k=20&c=LLywtLnfu5FETIvkaFjy_xcHnaIGmaKZYxcPKAoyPcA=" alt="MasterHead" style="width: 80%;">
+  </a>
+</div>
 
   <h1 align="center">Red-stevo</h1>
   <h3 align="center"></h3>
