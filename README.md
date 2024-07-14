@@ -13,7 +13,7 @@
   <p align="left"> <a href="[https://github.com/ryo-ma/github-profile-trophy](https://github-profile-trophy.vercel.app/)">
     <img src="https://github-profile-trophy.vercel.app/?username=red-stevo&theme=matrix" alt="red-stevo" /></a> </p>
 
- img align="right"alt="Red-Stevo"width="400"src="https://iconscout.com/lottie-animation/mobile-application-developer-6369150"
+  img align="right"alt="Red-Stevo"width="400"src="https://iconscout.com/lottie-animation/mobile-application-developer-6369150"
   
   - 🌱 I’m currently learning **SpringBoot and ReactJs**
   
