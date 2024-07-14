@@ -12,6 +12,12 @@
   
   <p align="left"> <a href="[https://github.com/ryo-ma/github-profile-trophy](https://github-profile-trophy.vercel.app/)">
     <img src="https://github-profile-trophy.vercel.app/?username=red-stevo&theme=matrix" alt="red-stevo" /></a> </p>
+
+  <p align="left">
+  <a href="https://iconscout.com/lottie-animation/mobile-application-developer-6369150">
+    <img src="https://your-direct-gif-link.gif" alt="Red-Stevo-Developer" />
+  </a>
+</p>  
   
   - 🌱 I’m currently learning **SpringBoot and ReactJs**
   
