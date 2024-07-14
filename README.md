@@ -1,4 +1,4 @@
-![Alt Text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fphotos%2Fsoftware-development-code&psig=AOvVaw04SOuTaN0IO4FFEJwGlEf6&ust=1721042102677000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIjayNWzpocDFQAAAAAdAAAAABBf)
+[![MasterHead](https://media.istockphoto.com/id/1530256492/vector/software-development-concept-laptop-with-open-screen-hanging-over-desk-coding-or-programming.jpg?s=612x612&w=0&k=20&c=LLywtLnfu5FETIvkaFjy_xcHnaIGmaKZYxcPKAoyPcA=)](https://github.com/red-stevo)
 
   <h1 align="center">Red-stevo</h1>
   <h3 align="center"></h3>
