@@ -5,7 +5,7 @@
 </div>
 
 <h1 align="center">Red-stevo</h1>
-  <h3 align="center">Welcome to My GitHub Page!</h3>
+  <h3 align="center">Exploring the World of Code 🌐</h3>
     
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=red-stevo&label=Profile%20views&color=0e75b6&style=flat" alt="red-stevo" /> </p>
   
