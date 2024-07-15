@@ -4,52 +4,9 @@
   </a>
 </div>
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Red-stevo's GitHub Page</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      background-color: #f0f0f0;
-      margin: 0;
-      padding: 0;
-    }
-    .container {
-      max-width: 800px;
-      margin: 50px auto;
-      text-align: center;
-    }
-    .header {
-      background-color: #333;
-      color: white;
-      padding: 20px;
-      border-radius: 10px;
-    }
-    .header h1 {
-      font-size: 3em;
-      margin: 10px 0;
-    }
-    .header h3 {
-      font-size: 1.5em;
-      margin: 0;
-    }
-  </style>
-</head>
-<body>
-  <div class="container">
-    <div class="header">
-      <h1>Red-stevo</h1>
-      <h3>Welcome to My GitHub Page</h3>
-    </div>
-    <!-- Your content here -->
-  </div>
-</body>
-</html>
-
-  
+<h1>Red-stevo</h1>
+  <h3>Welcome to My GitHub Page</h3>
+    
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=red-stevo&label=Profile%20views&color=0e75b6&style=flat" alt="red-stevo" /> </p>
   
   <p align="left"> <a href="[https://github.com/ryo-ma/github-profile-trophy](https://github-profile-trophy.vercel.app/)">
