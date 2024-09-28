@@ -1,4 +1,4 @@
-<div align="center">
+&<div align="center">
   <a href="https://github.com/red-stevo">
     <img src="https://media.istockphoto.com/id/1530256492/vector/software-development-concept-laptop-with-open-screen-hanging-over-desk-coding-or-programming.jpg?s=612x612&w=0&k=20&c=LLywtLnfu5FETIvkaFjy_xcHnaIGmaKZYxcPKAoyPcA=" alt="MasterHead">
   </a>
@@ -8,7 +8,6 @@
   <h3 align="center">Exploring the World of Code 🚀</h3>
     
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=red-stevo&label=Profile%20views&color=0e75b6&style=flat" alt="red-stevo" /> </p>
-  
   <p align="left"> <a href="[https://github.com/ryo-ma/github-profile-trophy](https://github-profile-trophy.vercel.app/)">
     <img src="https://github-profile-trophy.vercel.app/?username=red-stevo&theme=matrix" alt="red-stevo" /></a> </p>
     
