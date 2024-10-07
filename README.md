@@ -88,7 +88,7 @@
 
   
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=red-stevo&theme=vue-dark&hide_border=true" alt="red-stevo" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=red-stevo&theme=aura&hide_border=true" alt="red-stevo" />
 </div>
 
 
