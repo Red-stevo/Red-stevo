@@ -15,7 +15,7 @@
   
   - 📫 How to reach me **stephen.muiru22@students.dkut.ac.ke**
 
-  <h3 align="left">Languages & Tools:</h3>
+  <h3 align="left">Tech Stack & Tools:</h3>
 <p align="left">
   
   <!-- Programming Languages -->
@@ -73,6 +73,21 @@
   </a>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  </a>
+
+  <!-- Machine Learning -->
+  <b>Machine Learning Tools:</b><br>
+  <a href="https://numpy.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy" />
+  </a>
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  </a>
+  <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Matplotlib-007ACC?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib" />
+  </a>
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />
   </a>
 
 </p>
