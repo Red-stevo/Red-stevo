@@ -9,7 +9,7 @@
   
   - 📫 How to reach me **stephen.muiru22@students.dkut.ac.ke**
 
-  - ## 🖌️ UI/UX Design - Figma
+  - 🖌️ UI/UX Design - Figma
 I’m currently exploring UI/UX design using **Figma** to create user-friendly interfaces and prototypes.
 Stay tuned for design updates! 🎨
 
