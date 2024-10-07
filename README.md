@@ -1,9 +1,3 @@
-<div align="center">
-  <a href="https://github.com/red-stevo">
-    <img src="https://camo.githubusercontent.com/4e2669a61bc2b8451b3d5a80c61b8a79a6bb6ab0b2cf4c7166371b408a0daba4/68747470733a2f2f692e696d6775722e636f6d2f426e50334469652e676966" alt="MasterHead" width="1000">
-  </a>
-</div>
-
 <h1 align="center">Red-stevo</h1>
   <h3 align="center">Exploring the World of Code 🚀</h3>
     
