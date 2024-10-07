@@ -1,6 +1,6 @@
-&<div align="center">
+<div align="center">
   <a href="https://github.com/red-stevo">
-    <img src="https://media.istockphoto.com/id/1530256492/vector/software-development-concept-laptop-with-open-screen-hanging-over-desk-coding-or-programming.jpg?s=612x612&w=0&k=20&c=LLywtLnfu5FETIvkaFjy_xcHnaIGmaKZYxcPKAoyPcA=" alt="MasterHead">
+    <img src="https://camo.githubusercontent.com/4e2669a61bc2b8451b3d5a80c61b8a79a6bb6ab0b2cf4c7166371b408a0daba4/68747470733a2f2f692e696d6775722e636f6d2f426e50334469652e676966" alt="MasterHead" width="1000">
   </a>
 </div>
 
