@@ -45,6 +45,11 @@
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   </a>
 
+<b>Design Tools</b><br>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
+</a>
+
   <!-- Databases -->
   <b>Databases</b><br>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
