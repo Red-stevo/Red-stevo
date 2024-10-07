@@ -19,7 +19,7 @@
 <p align="left">
   
   <!-- Programming Languages -->
-  <b>Languages:</b><br>
+  <b>Languages</b><br>
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
   </a>
@@ -34,7 +34,7 @@
   </a>
 
   <!-- Web Development -->
-  <b>Frontend & Backend:</b><br>
+  <b>Frontend & Backend</b><br>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
   </a>
@@ -52,7 +52,7 @@
   </a>
 
   <!-- Databases -->
-  <b>Databases:</b><br>
+  <b>Databases</b><br>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   </a>
@@ -64,7 +64,7 @@
   </a>
 
   <!-- Tools -->
-  <b>Tools & Platforms:</b><br>
+  <b>Tools & Platforms</b><br>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   </a>
@@ -76,7 +76,7 @@
   </a>
 
   <!-- Machine Learning -->
-  <b>Machine Learning Tools:</b><br>
+  <b>Machine Learning Tools</b><br>
   <a href="https://numpy.org/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy" />
   </a>
