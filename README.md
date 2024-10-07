@@ -11,7 +11,7 @@
   <p align="left"> <a href="[https://github.com/ryo-ma/github-profile-trophy](https://github-profile-trophy.vercel.app/)">
     <img src="https://github-profile-trophy.vercel.app/?username=red-stevo&theme=matrix" alt="red-stevo" /></a> </p>
     
-  - 🌱 I’m currently learning **Machine learning and Android development**
+  - 🌱 I’m currently learning **Machine Learning and Android Development**
   
   - 📫 How to reach me **stephen.muiru22@students.dkut.ac.ke**
 
