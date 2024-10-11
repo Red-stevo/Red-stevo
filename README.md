@@ -1,6 +1,5 @@
 <h1 align="center">Red-stevo</h1>
   <h3 align="center">Exploring the World of Code 🚀</h3>
-  ![github]()
 
   <image src='https://github.com/user-attachments/assets/da570577-8a3a-466f-93ca-6614dcd22214' />
 
