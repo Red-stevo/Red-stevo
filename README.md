@@ -1,6 +1,6 @@
 <h1 align="center">Red-stevo</h1>
   <h3 align="center">Exploring the World of Code 🚀</h3>
-       <image src='https://github.com/user-attachments/assets/da570577-8a3a-466f-93ca-6614dcd22214' />
+       <image src='https://github.com/user-attachments/assets/da570577-8a3a-466f-93ca-6614dcd22214' height='200' />
 
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=red-stevo&label=Profile%20views&color=0e75b6&style=flat" alt="red-stevo" /> </p>
   <p align="left"> <a href="[https://github.com/ryo-ma/github-profile-trophy](https://github-profile-trophy.vercel.app/)">
